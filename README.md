@@ -10,5 +10,8 @@ With the TeleMessege program, you can send unlimited messages to the people you 
 # go to directory
 `cd TeleMessege/`
 
+# install library
+`pip install -r requirements.txt`
+
 # run
 `python telemessage.py`
